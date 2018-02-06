@@ -297,18 +297,18 @@ jQuery(document).ready(function($) {
 	function initialize() {
 	map = new GMaps({
 	div: '#map',
-	lat: -37.817917,
-	lng: 144.965065,
-	zoom: 16
+	lat: -7.7530547,
+	lng: 110.3713853,
+	zoom: 17
 	
 	});
 	map.addMarker({
-	lat: -37.81792,
-	lng: 144.96506,
+	lat: -7.753060,
+	lng: 110.373574,
 	title: 'Marker with InfoWindow',
 	icon: 'images/map-marker.png',
 	infoWindow: {
-	content: '<p>Melbourne Victoria, 300, Australia</p>'
+	content: '<p>Yogyakarta, Indonesia</p>'
 	}
 	});
 	}
