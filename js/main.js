@@ -299,7 +299,7 @@ jQuery(document).ready(function($) {
 	div: '#map',
 	lat: -7.7530547,
 	lng: 110.3713853,
-	zoom: 17
+	zoom: 16
 	
 	});
 	map.addMarker({
